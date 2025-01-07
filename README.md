@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AFRICA041
+- 👋 Hi, I’m @KAYIZZI HENRY
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on some web and app devlopment projects
